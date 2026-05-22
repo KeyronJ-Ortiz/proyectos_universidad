@@ -1,0 +1,50 @@
+.juego {
+    display: inline-block;
+    border-radius: 2px;
+    margin: 7px;
+
+    background-color: rgb(65, 0, 86);
+    color: rgb(0, 0, 0);
+}
+
+#contenido {
+    border: solid rgb(0, 0, 0);
+    justify-content: center;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+#indiceColumnas,
+#indiceFilas {
+    background-color: white;
+    font-size: medium;
+}
+
+.azul {
+    color: blue;
+}
+
+.rojo {
+    color: red;
+}
+
+.verde {
+    color: rgb(3, 186, 3);
+}
+
+.amarillo {
+    color: yellow;
+}
+
+.rosa {
+    color: rgb(255, 0, 128);
+}
+
+.morado {
+    color: rgb(198, 1, 198);
+}
+
+.enBlanco {
+    color: rgb(65, 0, 86);
+}
+

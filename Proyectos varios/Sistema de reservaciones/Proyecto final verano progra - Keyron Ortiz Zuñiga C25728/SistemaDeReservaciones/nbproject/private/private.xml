@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmCliente.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmConsultaHabitaciones.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmReporteClientes.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cDatos/DtoHabitacionDeLujo.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cLogicaNegocio/ColaboradorLN.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmConsultaClientes.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cEntidad/Clientes.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmColaborador.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cEntidad/Habitaciones.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmConsultarHabitacionDeLujo.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cLogicaNegocio/HabitacionDeLujoLN.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cEntidad/Factura.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cDatos/DtoColaboradores.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cDatos/DtoClientes.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cLogicaNegocio/ClientesLN.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cLogicaNegocio/HabitacionSencillaLN.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cDatos/DtoFactura.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/MainPrueba.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmFactura.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmHabitacionDeLujo.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmHabitacionSencilla.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cDatos/DtoHabitacionSencilla.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cPresentacion/FrmPrincipal.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cEntidad/Colaborador.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Escritorio/NetBeansProjects/SistemaDeReservaciones/src/com/SistemaDeReservaciones/cLogicaNegocio/FacturaLN.java</file>
+        </group>
+    </open-files>
+</project-private>

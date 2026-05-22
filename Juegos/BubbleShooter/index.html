@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Booble Shooter</title>
+</head>
+
+<body>
+    <div id="parametrosDeJuego">
+        <h3>Parametros de juego</h3>
+        <input type="number" id="cantidadFilas" placeholder="Cantidad filas">
+        <input type="number" id="cantidadColumnas" placeholder="Cantidad columnas">
+
+        <select id="dificultad">
+            <option value="">Seleccione la cantidad de burbujas</option>
+            <option value="normal">Normal: 4</option>
+            <option value="medio">Medio: 5</option>
+            <option value="dificil">Dificil: 6</option>
+        </select>
+        <button id="crearJuego">Crear juego</button>
+    </div>
+    <br>
+    <h3>Area juego</h3>
+
+    <div id="tablero" class="juego">
+
+    </div>
+    <br>
+
+    <input type="number" id="columnaDisparo" placeholder="Columna disparo">
+    <button id="glock">Disparar</button>
+    <br>
+    <br>
+    <div id="puntajeUsuario"></div>
+
+    <script src="logica.js"></script>
+</body>
+
+</html>

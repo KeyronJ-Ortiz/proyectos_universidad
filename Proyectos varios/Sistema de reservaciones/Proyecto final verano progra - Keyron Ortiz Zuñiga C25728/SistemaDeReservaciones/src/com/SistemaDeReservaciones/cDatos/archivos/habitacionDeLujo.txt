@@ -1,0 +1,5 @@
+1/100000*8+2 camas matrimoniales y 2 camarotes con aire-true.Reservada:Maikol Gutierrez Solano
+2/35000*1+1 cama matrimonial con aire-true.Reservada:a a a
+3/0*0+Ha disposicion-true.Disponible:No hay
+4/0*0+Ha disposicion-true.Disponible:No hay
+5/0*0+Ha disposicion-true.Disponible:No hay

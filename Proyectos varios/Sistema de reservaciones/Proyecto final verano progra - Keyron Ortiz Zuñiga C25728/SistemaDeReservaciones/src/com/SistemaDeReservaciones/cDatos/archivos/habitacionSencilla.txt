@@ -1,0 +1,5 @@
+1/15000*1+1 cama individual-false.Reservada:Keyron Ortiz Zuñiga
+2/25000*1+1 cama matrimonial-false.Reservada:Keyrick Ortiz Zuñiga
+3/25000*2+1 cama matrimonial-false.Reservada:a a a
+4/0*0+Ha disposicion-false.Disponible:No hay
+5/0*0+Ha disposicion-false.Disponible:No hay
